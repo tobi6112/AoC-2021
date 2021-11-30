@@ -1,0 +1,7 @@
+{
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:3",
+    "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python"
+    ],
+}
